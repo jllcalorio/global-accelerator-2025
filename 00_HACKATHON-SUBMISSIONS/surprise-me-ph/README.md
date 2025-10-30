@@ -13,10 +13,10 @@ Make sure to include the following details in your README:
 - Example: `0001_My-Awesome-Project/`
 
 ### Project Information
-- **Name** (and Team Name)
-- **Project Name**
-- **Project Description**
-- **Track** specification
+- **John Lennon L. Calorio**
+- **Surprise Me PH**
+- **Inspired by Too Good To Go, this app connects users in the Philippines with restaurants and stores that have surplus, unsold food. Users can purchase a 'Surprise Bag' at a great price, saving food from going to waste.**
+- **001** specification
 
 ## Getting Started
 
